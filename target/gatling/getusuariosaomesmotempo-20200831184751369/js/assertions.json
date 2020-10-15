@@ -1,0 +1,10 @@
+{
+  "simulation": "Testes.GetUsuariosAoMesmoTempo",
+  "simulationId": "getusuariosaomesmotempo",
+  "start": 1598899671369,
+  "description": "run",
+  "scenarios": ["retornaTodosProdutosCadastrados"],
+  "assertions": [
+
+  ]
+}

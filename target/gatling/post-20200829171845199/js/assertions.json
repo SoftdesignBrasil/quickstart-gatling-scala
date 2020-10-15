@@ -1,0 +1,10 @@
+{
+  "simulation": "Testes.Post",
+  "simulationId": "post",
+  "start": 1598721525199,
+  "description": "",
+  "scenarios": ["CriarProduto"],
+  "assertions": [
+
+  ]
+}
